@@ -1,0 +1,36 @@
+body {
+	font-family: Arial, San-Serif;
+	font-size: 100%;
+}
+
+
+p, h3 {
+	font-size: 13px;
+	line-height: 1.3em;
+	text-align: center;
+
+}
+.container {
+	margin: 0 auto;
+	width: 1000px;
+}
+
+
+.collection-item-outer {
+	display: inline-block;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	width: calc(100%/4);
+	box-sizing: border-box;
+}
+
+.collection-item {
+	border: 2px solid #959595;
+	background-color: grey;
+}
+.collection-item img{
+	width: 100%;
+}
+
