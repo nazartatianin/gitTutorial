@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background: #af4425;
+}
+div {
+    margin: auto;
+    width: 500px;
+    height: 300px;
+    box-shadow: #464646 3px 3px 10px 3px;
+    background: #662e1c;
+    text-align: center;
+}
+
+div:hover{
+    background-color: #c9a66b;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+h2 {
+    padding: 50px 0 0 0;
+    text-align: center;
+    color: #ebdcb2;
+    text-shadow: #4f4023 -5px 5px 10px;
+    font-size: 50px;
+}
+
+p{
+
+}
